@@ -28,8 +28,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman]([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://imgs.search.brave.com/IXbmH-eVICiDERy2VOv22Y7jhBcxf5sp35-wOfUi6O8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RyZWFtbGlu/ZWhxLmNvbS9pbWFn/ZS9wcml2YXRlL3df/MzAwLGhfMzAwLGFy/XzEvZl9hdXRvL3Yx/L2ljb25zLzIvcG9z/dG1hbi1kMnh4MjAx/MzNicWMwZDQ1ZzQ1/NTNqLnBuZy9wb3N0/bWFuLWg5aGl4bjRj/ZHR3anZmend1dHF2/ZG8ucG5nP19hPURB/VEFnMVh5WkFBMA))
-
 
 ---
 
