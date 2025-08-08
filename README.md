@@ -27,7 +27,9 @@
 **AI & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman]([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://imgs.search.brave.com/IXbmH-eVICiDERy2VOv22Y7jhBcxf5sp35-wOfUi6O8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RyZWFtbGlu/ZWhxLmNvbS9pbWFn/ZS9wcml2YXRlL3df/MzAwLGhfMzAwLGFy/XzEvZl9hdXRvL3Yx/L2ljb25zLzIvcG9z/dG1hbi1kMnh4MjAx/MzNicWMwZDQ1ZzQ1/NTNqLnBuZy9wb3N0/bWFuLWg5aGl4bjRj/ZHR3anZmend1dHF2/ZG8ucG5nP19hPURB/VEFnMVh5WkFBMA))
+
 
 ---
 
@@ -44,16 +46,14 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [AI Travel Planner](https://github.com/piyushm89/ai-travel-planner) | AI-powered travel itinerary generator | MERN, OpenAI API |
-| [College Event Management System](#) | Manage and track college events | MERN |
-| [ISL Translator](#) | Real-time Indian Sign Language translator | Python, TensorFlow |
+| [Airbnb - style rental backend platform](#) | Host and Rent hotels| MERN |
 
 ---
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushmishra9)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyush891783@gmail.com)  
 
 ---
 
