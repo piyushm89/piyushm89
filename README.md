@@ -1,7 +1,9 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Piyush+Mishra+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;MERN+Stack+%7C+Machine+Learning+%7C+Java+DSA;Always+Learning+New+Things)](https://git.io/typing-svg)
 
----# Hi there, I'm Piyush Mishra 👋
+---
+
+# Hi there, I'm Piyush Mishra 👋
 
 💻 **Full-Stack Developer** | MERN & AI-Integrated Projects | Always Learning 🚀
 
@@ -32,13 +34,20 @@ Currently exploring **AI-powered full-stack projects** and advanced **backend ar
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Travel Planner
+**Tech Stack:** MERN, OpenAI API (or other AI APIs)  
+An AI-powered travel itinerary generator that creates day-by-day plans, suggests places to visit, recommends routes and accommodations, and customizes itineraries based on user preferences like budget, interests, and trip duration.  
+[🔗 View Repository](https://github.com/piyushm89/ai-travel-planner)
+
+---
+
 ### 🏠 Airbnb Backend (Node.js + Express + MongoDB + EJS)
 A backend system for an Airbnb-style platform built using:
 - **Node.js** & **Express** for server-side logic
 - **MongoDB** for database
 - **EJS** for server-side rendering
 
-[🔗 View Repository](https://github.com/piyushm89/airbnb-backend)
+[🔗 View Repository](https://github.com/piyushm89/Airbnb-01)
 
 ---
 
@@ -55,7 +64,7 @@ A backend system for an Airbnb-style platform built using:
 
 [![LinkedIn](https://img.shields.io/badge/-Piyush%20Mishra-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/piyushm89)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piyush891783@example.com)  
 
 ---
 
@@ -64,4 +73,3 @@ A backend system for an Airbnb-style platform built using:
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=piyushm89&color=blue&style=flat-square)
-
