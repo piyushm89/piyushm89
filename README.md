@@ -1,57 +1,65 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Piyush+Mishra+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;MERN+Stack+%7C+Machine+Learning+%7C+Java+DSA;Always+Learning+New+Things)](https://git.io/typing-svg)
 
----
+---# Hi there, I'm Piyush Mishra 👋
 
-## 👨‍💻 About Me  
-- 🚀 Full Stack Developer (MERN) & AI Integrations  
-- 🤖 Currently building **AI Travel Planner** from scratch  
-- 📚 Learning **Data Structures & Algorithms in Java**  
-- 🐧 Ubuntu lover | ☕ Coffee-powered coding  
-- 💡 Always exploring ways to merge AI + Web Development  
+💻 **Full-Stack Developer** | MERN & AI-Integrated Projects | Always Learning 🚀
+
+I’m passionate about building full-stack applications that solve real-world problems.  
+Currently exploring **AI-powered full-stack projects** and advanced **backend architectures**.
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+**Languages & Frameworks**
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
+![EJS](https://img.shields.io/badge/-EJS-8BC34A?style=flat&logo=javascript&logoColor=fff)  
 
-**Backend & Database:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+**Tools & Platforms**
 
-**AI & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
-
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushm89&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushm89&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushm89&theme=tokyonight)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=fff)  
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AI Travel Planner](https://github.com/piyushm89/ai-travel-planner) | AI-powered travel itinerary generator | MERN, OpenAI API |
-| [Airbnb - style rental backend platform](#) | Host and Rent hotels| MERN |
+### 🏠 Airbnb Backend (Node.js + Express + MongoDB + EJS)
+A backend system for an Airbnb-style platform built using:
+- **Node.js** & **Express** for server-side logic
+- **MongoDB** for database
+- **EJS** for server-side rendering
+
+[🔗 View Repository](https://github.com/piyushm89/airbnb-backend)
 
 ---
 
-## 🌐 Connect with Me  
+## 📊 GitHub Stats & Most Used Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushmishra9)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyush891783@gmail.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushm89&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushm89&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Piyush%20Mishra-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/piyushm89)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
 
 ---
 
