@@ -14,28 +14,33 @@ Currently exploring **AI-powered full-stack projects** and advanced **backend ar
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![EJS](https://img.shields.io/badge/-EJS-8BC34A?style=flat&logo=javascript&logoColor=fff)  
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff)
 
-**Tools & Platforms**
+### **Frameworks & Libraries**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=javascript&logoColor=fff)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)  
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=fff)  
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Travel Planner
-**Tech Stack:** MERN, OpenAI API (or other AI APIs)  
+**Tech Stack:** MERN, OpenAI API  
 An AI-powered travel itinerary generator that creates day-by-day plans, suggests places to visit, recommends routes and accommodations, and customizes itineraries based on user preferences like budget, interests, and trip duration.  
 [🔗 View Repository](https://github.com/piyushm89/ai-travel-planner)
 
@@ -62,9 +67,9 @@ A backend system for an Airbnb-style platform built using:
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Piyush%20Mishra-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/piyushm89)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piyush891783@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-Piyush%20Mishra-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushm89)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyush891783@example.com)  
 
 ---
 
