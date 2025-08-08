@@ -57,5 +57,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=piyushm89&color=blue&style=flat-square)
 
-<!-- Snake animation -->
-![snake gif](https://github.com/piyushm89/piyushm89/blob/output/github-contribution-grid-snake.svg)
